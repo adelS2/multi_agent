@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+google-generativeai
+python-dotenv
+serpapi
+pandas
+matplotlib
+yfinance
+prophet
+# pip install -r requirements.txt

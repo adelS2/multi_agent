@@ -69,15 +69,3 @@ Das System basiert auf spezialisierten KI-Agenten, die über ein Supervisor-Modu
 
 ---
 
-## 📦 Bereitstellung
-
-- Modulare Gradio-Oberfläche
-- Deployment auf Hugging Face Spaces
-- Versioniert & dokumentiert via GitHub
-"""
-
-# Speicherort setzen
-output_path = Path("/mnt/data/README.md")
-output_path.write_text(readme_text, encoding="utf-8")
-
-output_path.name

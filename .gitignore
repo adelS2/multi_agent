@@ -1,0 +1,33 @@
+__pycache__.zip
+chroma_langchain_db/
+# Bytecode / Cache
+__pycache__/
+
+# Virtuelle Umgebungen / Umgebungsdaten
+.conda/
+.env
+
+# Lokale Datenbanken / Binärdateien
+chroma_langchain_db/
+*.sqlite3
+*.db
+*.bin
+
+# Temporäre oder lokale Analyse-Dateien
+all-files.txt
+*.csv
+*.zip
+*.log
+*.tmp
+
+# Bildausgaben (wenn generiert)
+figures/
+
+# System- / IDE-Dateien
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+chroma_langchain_db/
+.env
+.env

@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme_text = """\
 # 📊 Multimodales KI-Agentensystem für Finanzanalyse
 
 Ein intelligentes Analyse-Framework, das multimodale Unternehmensdaten aus Investor-Relations-Dokumenten strukturiert verarbeitet, analysiert und in Echtzeit anreichert – bereitgestellt über eine Gradio-Weboberfläche.
